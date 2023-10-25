@@ -9,3 +9,19 @@
 ## 4. What I achieved/Problem solved: 
     Helped HR optimize employee training programs, resulting in a 15% increase in employee productivity and a 10% decrease in turnover.
 
+
+## Tools and Library Used:
+
+### Tools: 
+* Jupyter
+* MS SQL Server
+
+### Python Library Used: 
+* Pyodbc
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+* pylab
+* Scipy
+
